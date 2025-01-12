@@ -1,1 +1,1 @@
-link to portfolio :- https://golden-lamington-9eaddd.netlify.app/
+link to portfolio :- krishna-koushik-portfolio.netlify.app
